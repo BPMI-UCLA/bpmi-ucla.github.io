@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/markdown-formatting-demo/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/recipe-app-ux-study/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/ux-case-study-for-agriculture-app/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/event-app-case-study/</loc>
+    <lastmod>2020-08-12T18:07:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/designer-conference-at-florida-2020/</loc>
+    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/case-study-one/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/designers-thoughts-about-mobile-ui/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/how-to-become-acreative-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/new-designers-limitations/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/things-you-must-know-as-a-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/world-most-famous-app-developers-and-designers/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/you-must-know-this-before-becoming-a-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
