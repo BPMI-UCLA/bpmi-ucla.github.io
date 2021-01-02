@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact US on BPMI UCLA</title>
-    <link>/contact/</link>
+    <link>bpmi-ucla.github.io/contact/</link>
     <description>Recent content in Contact US on BPMI UCLA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="bpmi-ucla.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
