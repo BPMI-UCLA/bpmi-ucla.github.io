@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BPMI UCLA</title>
-    <link>bpmi-ucla.github.io/</link>
+    <link>/</link>
     <description>Recent content on BPMI UCLA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 12:00:00 +0000</lastBuildDate><atom:link href="bpmi-ucla.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 12:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BPMI Live Show Around UCLA</title>
-      <link>bpmi-ucla.github.io/posts/bpmi-live-show-around-ucla/</link>
+      <link>/posts/bpmi-live-show-around-ucla/</link>
       <pubDate>Wed, 30 Dec 2020 12:00:00 +0000</pubDate>
       
-      <guid>bpmi-ucla.github.io/posts/bpmi-live-show-around-ucla/</guid>
+      <guid>/posts/bpmi-live-show-around-ucla/</guid>
       <description>Since many incoming UCLA students were unable to visit UCLA due to the COVID-19 pandemic, we hosted two live tours of the UCLA campus and surrounding residential areas as the first large-scale event of our club. In consideration of the international cohort, we hosted two different sessions on Zoom and Instagram respectively on May 23 and May 24, 2020, where we had some of our members serve as hosts introducing the campus life at UCLA on live and the others participate as online Q&amp;amp;A consultants answering the audience’s questions via the chat functions.</description>
     </item>
     
     <item>
       <title>Recipe App Ux Study</title>
-      <link>bpmi-ucla.github.io/portfolio/recipe-app-ux-study/</link>
+      <link>/portfolio/recipe-app-ux-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>bpmi-ucla.github.io/portfolio/recipe-app-ux-study/</guid>
+      <guid>/portfolio/recipe-app-ux-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>UX Case Study for Agriculture App</title>
-      <link>bpmi-ucla.github.io/portfolio/ux-case-study-for-agriculture-app/</link>
+      <link>/portfolio/ux-case-study-for-agriculture-app/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
-      <guid>bpmi-ucla.github.io/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <guid>/portfolio/ux-case-study-for-agriculture-app/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Event App Case Study</title>
-      <link>bpmi-ucla.github.io/portfolio/event-app-case-study/</link>
+      <link>/portfolio/event-app-case-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
       
-      <guid>bpmi-ucla.github.io/portfolio/event-app-case-study/</guid>
+      <guid>/portfolio/event-app-case-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Case Study One</title>
-      <link>bpmi-ucla.github.io/portfolio/case-study-one/</link>
+      <link>/portfolio/case-study-one/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>bpmi-ucla.github.io/portfolio/case-study-one/</guid>
+      <guid>/portfolio/case-study-one/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
