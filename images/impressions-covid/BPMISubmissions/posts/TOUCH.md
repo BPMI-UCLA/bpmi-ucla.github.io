@@ -1,7 +1,7 @@
 
 ---
 title: "TOUCH"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/TOUCH/feature-image.png
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,10 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Marissa Bennett
-
-**Email:** marissabennett48@gmail.com
-
-**Website:** https://www.marissaebennett.com
 
 ### Introduction
 Marissa Bennett is a multidisciplinary designer based in Los Angeles, California. She specializes in graphic design, illustration, and photography. Marissa recently completed her final year working towards a Bachelor of Arts (B.A.) in Design Media Arts with a minor in Global Studies at the University of California Los Angeles (UCLA) in June 2020.

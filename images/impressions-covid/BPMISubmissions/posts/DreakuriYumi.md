@@ -1,7 +1,7 @@
 
 ---
 title: "Dreakuri Yumi"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/DreakuriYumi/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Andi Zhang
-
-**Email:** 87414045@qq.com
 
 ### Introduction:
 Andi is an artist graduated from Central Academy of Fine Arts in China.

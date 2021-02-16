@@ -1,7 +1,7 @@
 
 ---
 title: "Pickled Stripper - Life Through Pickled Color Glasses"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/PickledStripper/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,10 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Kayla Tange
-
-**Email:** kaylatange@g.ucla.edu
-
-**Website:** www.kaylatange.com
 
 ### Introduction:
 Kayla Tange was born in South Korea and adopted by a Japanese American family. Her love for poetry and photography slowly progressed into a conceptual performance practice which incorporates elements of exotic dancing. Physical and psychic boundaries, sexuality and  permanence are also recurring themes. She often uses dark comedy in her performance work to explore love and longing, societal taboos and catharsis. She is the co-producer of Sacred Wounds, a show around ritual, subverting cultural stereotypes and ancestral healing.

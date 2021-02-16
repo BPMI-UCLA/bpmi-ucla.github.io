@@ -1,8 +1,8 @@
 
 ---
 title: "Anonymous love to elsewhere and here"
-date: 2021-02-13T12:00:00
-featureImage: images/impressions-covid/BPMISubmissions/AnonymousLoveToElsewhereAndHere/feature-image.jpg
+date: 2021-02-15T18:00:00
+featureImage: images/impressions-covid/BPMISubmissions/AnonymousLoveToElsewhereAndHere/feature-image.png
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
 ---
@@ -10,9 +10,7 @@ draft: false
 ## About Author
 
 
-**Artist Name: ** Gabriele Lombardi
-
-**Email:** gabrielelombardi10@gmail.com
+**Artist Name:** Gabriele Lombardi
 
 ### Introduction
 Gabriele Lombardi is 31 years old, from a small village in the province of Parma, in nothern Italy.

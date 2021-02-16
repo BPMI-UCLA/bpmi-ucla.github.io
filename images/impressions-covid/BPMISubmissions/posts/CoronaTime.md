@@ -1,7 +1,7 @@
 
 ---
 title: "Corona Time"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/CoronaTime/feature-image.png
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Zheng Fang 
-
-**Email:** zhengfang19@g.ucla.edu
 
 ### Introduction
 Zheng Fang was the youngest person in the world. As the cofounder of 夹山改梁, Zheng Fang starts his journey in the nexus of interactive installation, game design, generative art, performance, experimental video, painting, experimental theater, curation, and education, etc.

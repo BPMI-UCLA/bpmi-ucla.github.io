@@ -1,7 +1,7 @@
 
 ---
 title: "Uncanny"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/Uncanny/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,10 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Yuying Song
-
-**Email:** songyuying0203@hotmail.com
-
-**Youtube Video:** https://youtu.be/d9slDBMoUcQ
 
 ### Introduction
 Yuying Song is currently in Valencia, Spain. She is pursuing a Doctoral degree in Art Production and Research, at the Polytechnic University of Valencia.

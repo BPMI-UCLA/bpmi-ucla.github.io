@@ -1,7 +1,7 @@
 
 ---
 title: "More PPE Now"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/MorePPENow/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,10 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Mildred Grace German 
-
-**Email:** mildredgracegerman@gmail.com
-
-**Website:** http://www.mildredgracegerman.wixsite.com/website
 
 ### Introduction
 Mildred Grace German is a Filipino-Canadian multidisciplinary artist based on the unceded Coast Salish Territories of the Musqueam, Squamish, and Tsleil-Waututh Nations.

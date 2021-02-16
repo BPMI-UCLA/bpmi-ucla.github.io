@@ -1,7 +1,7 @@
 
 ---
 title: "WAKE UP: Student Perspectives on COVID-19"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/WakeUpStudentPerspectivesOnCovid-19/feature-image.png
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Geneva Hines
-
-**Email:** geneva.w.hines@ryerson.ca
 
 ### Introduction
 Geneva Hines is a media production student from Ryerson University, Toronto, Ontario. 

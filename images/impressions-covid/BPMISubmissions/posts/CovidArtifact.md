@@ -1,7 +1,7 @@
 
 ---
 title: "Covid Artifact"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/CovidArtifact/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** James Gouldthorpe
-
-**Email:** jwgouldthorpe@gmail.com
 
 ### Introduction
 I have always been drawn to narrative and even at its most abstract my work suggests a plot. I have found that referencing a story is an effective way to explore my own particular conceptual ideas, and a compelling way to engage an audience. Painting one image often does not fully express the ideas I am exploring, but painting several images and thoughtfully juxtaposing them next each other they begin to create their own visual language. My approach to creating work has begun to resemble writing which I rigorously edit.  As I pin paintings to the wall, I layer, remove, reconfigure and repaint until a compelling narrative begins to form.  I frequently refer to my library of old books and magazines searching for relevant texts which I transcribe into the painted works.  As I paint the work expands and shrinks finding unexpected directions, sometimes growing until it fills entire walls. 

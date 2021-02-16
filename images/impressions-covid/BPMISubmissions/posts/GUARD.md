@@ -1,7 +1,7 @@
 
 ---
 title: "GUARD"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/GUARD/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Icy Lu
-
-**Email:** lyx20031028@gmail.com
 
 ### Introduction:
 Icy is a 17-year-old second year undergraduate international student in Los Angeles.

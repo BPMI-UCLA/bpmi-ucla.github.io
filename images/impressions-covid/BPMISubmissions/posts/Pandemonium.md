@@ -1,7 +1,7 @@
 
 ---
 title: "Pandemonium"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/Pandemonium/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Elisabeth Koch
-
-**Email:** elikoch@g.ucla.edu
 
 ### Introduction
 Elisabeth Koch is a PhD student in Iranian Studies and Egyptology at UCLA, the model her boyfriend, who consented to the submission of this picture despite him sporting a pandemic haircut.

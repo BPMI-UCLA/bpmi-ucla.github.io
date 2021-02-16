@@ -1,7 +1,7 @@
 
 ---
 title: "Taking Precaution"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/TakingPrecaution/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,8 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Jessica Till
-
-**Email:** jessicatill@g.ucla.edu
 
 ### Introduction
 Jessica Till is a contemporary artist that utilizes various software applications and immersive processes to explore issues of identity. Her passion for digital photography, experimental projection lighting, graphic design, and typography helps her explore social roles and interactions between technology and humanity.

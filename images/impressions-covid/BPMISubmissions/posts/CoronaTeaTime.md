@@ -1,7 +1,7 @@
 
 ---
 title: "Corona Tea Time"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/CoronaTeaTime/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -10,10 +10,6 @@ draft: false
 ## About Author
 
 **Artist Name:** Sarah Addouh
-
-**Email:** sarahaddouh@gmail.com
-
-**Instagram:** @sarahaddouh
 
 ### Introduction
 Sarah Addouh is an architect and collage artist based in Morocco, Casablanca.

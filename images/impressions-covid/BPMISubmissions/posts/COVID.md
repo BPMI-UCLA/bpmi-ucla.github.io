@@ -1,7 +1,7 @@
 
 ---
 title: "COVID"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/COVID/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -11,10 +11,8 @@ draft: false
 
 **Artist Name:** Berna Gulbey
 
-**Instagram:"" https://www.instagram.com/bernagulbey/
-
 ### Introduction
-Berna Gulbey has about 50 paintings so far for her COVİD collection.
+Berna Gulbey has about 50 paintings so far for her COVÄ°D collection.
 
 ## About Artwork
 In my COVID series I am aiming to show the effect of this Virus on people from all walks of life, it aims to put a full stop in that moment of time and freezes the emotion of the moment in history.

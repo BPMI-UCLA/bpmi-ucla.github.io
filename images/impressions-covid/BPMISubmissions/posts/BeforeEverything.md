@@ -1,7 +1,7 @@
 
 ---
 title: "Before Everything"
-date: 2021-02-13T12:00:00
+date: 2021-02-15T18:00:00
 featureImage: images/impressions-covid/BPMISubmissions/BeforeEverything/feature-image.png
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
@@ -11,8 +11,6 @@ draft: false
 
 
 **Artist Name:** Taizhi Chen
-
-**Email:** tchen29@sva.edu
 
 ### Introduction
 Taizhi Chen is a student artisit at School of Visual Arts, New York City.
